@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ENOJS9G2HEygR1Ev75CeeQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="127.0.0.1/index.html" CVScreenId="6f168259-0a96-4ab4-af18-d77720eb0a77" CvElementArea="667, 392, 600, 38" CvType="InputBox" DesignTimeRectangle="668, 394, 600, 35" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='tipo' tag='INPUT' type='text' class='' aaname='Tipo do produto' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="71413c7d-d0c9-40e3-b889-4743818d9eeb" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Cadastro de Produtos' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6f168259-0a96-4ab4-af18-d77720eb0a77" CvTextArea="667, 371, 124, 18" CvTextArgument="Tipo do produto" CvType="Text" DesignTimeRectangle="668, 371, 600, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Tipo do produto' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Tipo do produto' /&gt;" Guid="401f59f5-f680-428f-8c10-de01587b8eec" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ec2b38f06bf42619b534edd980467908.png" xmlns="">0JS_2b5hgPUGFBoxPKYlbyw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5_USxs9_RUqaTleMTwhNoA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="127.0.0.1/index.html" CVScreenId="006db2a6-d476-43f0-8913-9d01d284e404" CvElementArea="667, 772, 82, 44" CvTextArea="684, 785, 48, 15" CvTextArgument="Enviar" CvType="Button" DesignTimeRectangle="668, 773, 79, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" Guid="4b6254ca-432f-4211-85b9-1e26827d78b1" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Cadastro de Produtos' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="68ed7b4a388d89bdbeb3652fab7b46a6.png" xmlns="">0rsGB5GuP_0ek2Adw_Sp5pA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

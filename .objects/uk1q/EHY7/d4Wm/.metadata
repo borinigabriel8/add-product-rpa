@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Cadastro de Produtos(2)",
+  "Type": "Screen",
+  "Id": "d4Wmn4rttEWFgmmjSzw5ww",
+  "Reference": "JG5PbOHZ0UG3yqRWEOdmOg/d4Wmn4rttEWFgmmjSzw5ww",
+  "ParentRef": "JG5PbOHZ0UG3yqRWEOdmOg/EHY7w5-D_EKfK6Bara5dCQ",
+  "Created": "2025-05-26T16:40:38.9118955Z",
+  "Updated": "2025-05-26T16:40:38.9118955Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

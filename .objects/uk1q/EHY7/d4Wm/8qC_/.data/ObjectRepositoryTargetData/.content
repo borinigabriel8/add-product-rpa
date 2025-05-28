@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TBPUyqm9AUqJfYN8AMS9VA" Reference="JG5PbOHZ0UG3yqRWEOdmOg/8qC_nL_US0OyjZlJ9tel8Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="84125e9b-bc7a-4fb0-aff9-cc1449cd2d2b" CvElementArea="666, 274, 601, 38" CvType="InputBox" DesignTimeRectangle="668, 276, 600, 35" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='marca' tag='INPUT' type='text' class='' aaname='Marca do produto' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="2df618d2-0216-4132-93a0-48103f1ada4b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Cadastro de Produtos' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="84125e9b-bc7a-4fb0-aff9-cc1449cd2d2b" CvTextArea="667, 253, 137, 18" CvTextArgument="Marca do produto" CvType="Text" DesignTimeRectangle="668, 253, 600, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Marca do produto' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Marca do produto' /&gt;" Guid="c45c6792-720b-4e05-bdc3-f623f198a6b7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f95c4f85e99da95d71c49d3125d36008.png" xmlns="">0UD3ZvWHEXUe1hUPvUP2pTQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="e24TXuOER02hwM90GvvCUw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="f4e937cf-2e7d-41c6-8372-5ae036c79d30" CvElementArea="667, 201, 601, 38" CvType="InputBox" DesignTimeRectangle="667, 201, 601, 38" ElementType="InputBox" Guid="7b0faf6c-7b2f-4896-b7d3-a15a5f54fa80" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Cadastro de Produtos e mais 2 páginas - Perfil 1 — Microsoft​ Ed*' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f4e937cf-2e7d-41c6-8372-5ae036c79d30" CvTextArea="667, 180, 146, 18" CvTextArgument="Código do produto" CvType="Text" DesignTimeRectangle="667, 180, 146, 18" ElementType="Text" Guid="e0038e77-c87c-4a5d-add5-76f05da55fb1" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="db2739564f374dd4f7c3fb7d6670dc0b.png" xmlns="">0QEAQ7UmsO0es59EgRFQ9ww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

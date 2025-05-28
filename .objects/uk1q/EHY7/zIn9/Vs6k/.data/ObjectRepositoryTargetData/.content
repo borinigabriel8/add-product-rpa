@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2r-GuMSZYEy9QjSeIF3WpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="127.0.0.1/index.html" CVScreenId="6f168259-0a96-4ab4-af18-d77720eb0a77" CvElementArea="666, 319, 601, 38" CvType="InputBox" DesignTimeRectangle="668, 321, 600, 35" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='marca' tag='INPUT' type='text' class='' aaname='Marca do produto' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="4da0e366-8d37-420a-87bd-f62f45755496" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Cadastro de Produtos' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6f168259-0a96-4ab4-af18-d77720eb0a77" CvTextArea="667, 298, 137, 18" CvTextArgument="Marca do produto" CvType="Text" DesignTimeRectangle="668, 298, 600, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Marca do produto' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Marca do produto' /&gt;" Guid="9321f4c5-2570-408e-9426-dfb5aed1c77c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bd527a5371e28afcbe2558a055d8574c.png" xmlns="">0mMHSsrHeTUidsZMhxdMb1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
